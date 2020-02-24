@@ -1,4 +1,2 @@
-resource "alicloud_oss_bucket" "bucket-acl"{
-  bucket = "bucket-170309-acl"
-  acl = "private"
-}
+access_keys = "dasdsa"
+secret_key="dadassa"
